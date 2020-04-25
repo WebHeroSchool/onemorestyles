@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i&display=swap&subset=cyrillic-ext');
+@import url('https://fonts.googleapis.com/css?family=Bangers&display=swap');
+
+body{
+  background-color: #b3d3fa;
+  font-family: "bangers";
+}
+.header{
+  color: green;
+}
+.inner{
+  color: red;
+}
+.header__title{
+  color: black;
+  font-family: "pt sans";
+  font-style: italic;
+  text-shadow: 5px 10px 10px;
+  }
